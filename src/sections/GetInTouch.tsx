@@ -22,10 +22,10 @@ function GetInTouch() {
                <div className="getInTouchImg">
                   <div className="getInTouchImgInner">
                      <div className="getInTouchImg1">
-                        <img src="src/assets/images/contact/image2.jpeg" alt="img" className="img-fluid"/>
+                        <img src="images/contact/image2.jpeg" alt="img" className="img-fluid"/>
                      </div>
                      <div className="getInTouchImg2">
-                        <img src="src/assets/images/contact/image1.jpg" alt="img" className="img-fluid"/>
+                        <img src="images/contact/image1.jpg" alt="img" className="img-fluid"/>
                      </div>
                   </div>
                </div>

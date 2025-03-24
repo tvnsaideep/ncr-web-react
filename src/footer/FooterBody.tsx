@@ -28,7 +28,7 @@ function FooterBody() {
          </div>
          <div className="middleContent">
             <div className="footerLogo">
-               {/* <a href="javascript:void(0);"><img src="src/assets/images/footer-logo.png" alt="footer-logo"
+               {/* <a href="javascript:void(0);"><img src="images/footer-logo.png" alt="footer-logo"
                      className="img-fluid"/></a> */}
                      <h4>Namma Chettinadu Restaurant</h4>
             </div>

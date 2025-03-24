@@ -16,7 +16,7 @@ function SpecialDish () {
                         <div className="specialDishGetStartedBtn">
                            <a target="_blank" href="https://www.zomato.com/chennai/namma-chettinadu-restaurant-1-thuraipakkam/book" className="btn btnPrimary">Book a Table</a>
                         </div>
-                        <div className="specialDishWatchVideoBtn">
+                        {/* <div className="specialDishWatchVideoBtn">
                            <a href="#" className="flVideo watchNow youtube-link"
                               data-youtube-id="aZJUXa2zgcc">
                               <span className="playIcon">
@@ -28,49 +28,49 @@ function SpecialDish () {
                               </span>
                               <span>Watch video</span>
                            </a>
-                        </div>
+                        </div> */}
                      </div>
-                     <div className="ourHappyCustomer">
+                     {/* <div className="ourHappyCustomer">
                         <div className="ourHappyCustomerImg">
                            <a href="javascript:void(0);">
-                              <img src="src/assets/images/user1.png" alt="play-button" className="img-fluid"/>
+                              <img src="images/user1.png" alt="play-button" className="img-fluid"/>
                            </a>
                            <a href="javascript:void(0);">
-                              <img src="src/assets/images/user2.png" alt="play-button" className="img-fluid"/>
+                              <img src="images/user2.png" alt="play-button" className="img-fluid"/>
                            </a>
                            <a href="javascript:void(0);">
-                              <img src="src/assets/images/user3.png" alt="play-button" className="img-fluid"/>
+                              <img src="images/user3.png" alt="play-button" className="img-fluid"/>
                            </a>
                         </div>
                         <div className="ourHappyCustomerContent">
                            <span className="ourHappyTitle">Our Happy Customer</span>
                            <p><i className="fa-solid fa-star"></i> 4.8 <span className="review">( 12.6k Review)</span></p>
                         </div>
-                     </div>
+                     </div> */}
                   </div>
                   <div className="specialDishTiffinCol">
                      <div className="specialTiffinBannerImg">
                         <div className="specialDishTiffinImg">
-                           <img src="src/assets/images/img1.png" alt="img" className="img-fluid bgBannerImg"/>
-                           <img  src="src/assets/images/dishes/chettinadChickenHomeBanner.png" alt="img" className="img-fluid bgBannerInnerImg"/>
-                           <img src="src/assets/images/img3.png" alt="img" className="img-fluid maskImg maskImg1 movingjs"
+                           <img src="images/img1.png" alt="img" className="img-fluid bgBannerImg"/>
+                           <img  src="images/dishes/chettinadChickenHomeBanner.png" alt="img" className="img-fluid bgBannerInnerImg"/>
+                           <img src="images/img3.png" alt="img" className="img-fluid maskImg maskImg1 movingjs"
                               data-value="-2"/>
-                           <img src="src/assets/images/img2.png" alt="img" className="img-fluid maskImg maskImg2 movingjs"
+                           <img src="images/img2.png" alt="img" className="img-fluid maskImg maskImg2 movingjs"
                               data-value="2"/>
-                           <img src="src/assets/images/img5.png" alt="img" className="img-fluid maskImg maskImg3 movingjs"
+                           <img src="images/img5.png" alt="img" className="img-fluid maskImg maskImg3 movingjs"
                               data-value="-2"/>
                         </div>
                         <div className="sTiffinBox specialTiffinCall movingjs" data-value="-6">
                            <div className="specialTiffinLeft">
                               <div className="specialTiffinImg">
-                                 <img src="src/assets/images/partners/swiggy_logo.png" style={{height:'40px', width:'40px'}} alt="img" className="img-fluid bgBannerImg"/>
+                                 <img src="images/partners/swiggy_logo.png" style={{height:'40px', width:'40px'}} alt="img" className="img-fluid bgBannerImg"/>
                               </div>
                               <div className="specialTiffinTxt">
                                  <h5 className="mb-0">Order Online</h5>
                                  <p className="mb-0">on Swiggy</p>
                               </div>
                               <a target="_blank" href="https://www.swiggy.com/city/chennai/namma-chettinadu-restaurant-thoraipakkam-rest958718">
-                                 <img style={{height:"40px"}} src="src/assets/images/partners/swiggy_rider_moving_new.gif" alt="img" className="img-fluid callIcon"/>
+                                 <img style={{height:"40px"}} src="images/partners/swiggy_rider_moving_new.gif" alt="img" className="img-fluid callIcon"/>
                               </a>
                            </div>
                         </div>
@@ -91,7 +91,7 @@ function SpecialDish () {
                            </div>
                            <div className="specialTiffinRight">
                               <div className="discountLabel">
-                                 <img src="src/assets/images/mask9.png" alt="img" className="img-fluid"/>
+                                 <img src="images/mask9.png" alt="img" className="img-fluid"/>
                                  <span>
                                     20% <br/>
                                     OFF
@@ -109,8 +109,8 @@ function SpecialDish () {
                               strokeLinecap="round" strokeLinejoin="round" />
                         </svg>
 
-                        <img src="src/assets/images/mask1.png" alt="mask" className="img-fluid makTiff movingjs" data-value="-4"/>
-                        <img src="src/assets/images/icon/time-icon.png" alt="time-icon" className="img-fluid timeIcon movingjs"
+                        <img src="images/mask1.png" alt="mask" className="img-fluid makTiff movingjs" data-value="-4"/>
+                        <img src="images/icon/time-icon.png" alt="time-icon" className="img-fluid timeIcon movingjs"
                            data-value="4"/>
                      </div>
                   </div>

@@ -33,7 +33,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">
@@ -70,7 +70,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">
@@ -108,7 +108,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">
@@ -145,7 +145,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">
@@ -191,7 +191,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">
@@ -225,7 +225,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">
@@ -259,7 +259,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">
@@ -293,7 +293,7 @@ function MealPlan() {
                         <div className="ourMealCard">
                            <div className="ourMealImg">
                               <a href="meal-single.html">
-                                 <img src="src/assets/images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
+                                 <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100"/>
                               </a>
                            </div>
                            <div className="ourMealContent">

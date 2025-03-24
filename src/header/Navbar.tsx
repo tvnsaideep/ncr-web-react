@@ -6,7 +6,7 @@ function Navbar() {
          <nav className="navbar navbar-expand-xl">
             <div className="container-fluid">
                <a className="navbar-brand" href="#">
-                  <img src="src/assets/images/logo/ncr-logo.png" alt="logo" className="img-fluid" />
+                  <img src="images/logo/ncr-logo.png" alt="logo" className="img-fluid" />
                </a>
 
                <div className="collapse navbar-collapse" id="collapsibleNavbar">

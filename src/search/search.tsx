@@ -8,7 +8,7 @@ function SearchBar(){
       </a>
       <div className="searchBoxInner">
          <div className="searchBoxLogo">
-            <img src="src/assets/images/logo/logo-white.png" alt="search" className="img-fluid"/>
+            <img src="images/logo/logo-white.png" alt="search" className="img-fluid"/>
          </div>
          <div className="searchBoxForm">
             <div className="input-group">

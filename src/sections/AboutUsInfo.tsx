@@ -1,3 +1,5 @@
+import { NavLink } from "react-router-dom";
+
 function AboutUsInfo(){
     return (
         <>
@@ -8,7 +10,7 @@ function AboutUsInfo(){
                   <div className="informationIntoCol">
                      <div className="informationIntoImg">
                         <div className="informationIntoImgInner">
-                           <img src="src/assets/images/ncr/ambience/aboutUs/aboutUsLeftImg.jpeg" alt="img" className="img-fluid girlImg"/>
+                           <img src="images/ncr/ambience/aboutUs/aboutUsLeftImg.jpeg" alt="img" className="img-fluid girlImg"/>
                         </div>
                      </div>
                   </div>
@@ -46,9 +48,11 @@ function AboutUsInfo(){
 
                         <div className="specialDishBtnGroup">
                            <div className="specialDishGetStartedBtn">
-                              <a href="javascript:void(0);" className="btn btnPrimary">Get Started</a>
+                              <NavLink to={"/"}>
+                              <a href="#" className="btn btnPrimary">Get Started</a>
+                              </NavLink>
                            </div>
-                           <div className="specialDishWatchVideoBtn">
+                           {/* <div className="specialDishWatchVideoBtn">
                               <a href="javascript:void(0);" className="flVideo watchNow youtube-link" data-youtube-id="ZrGzRmcIFcU">
                                  <span className="playIcon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="15" height="18" viewBox="0 0 15 18"
@@ -59,7 +63,7 @@ function AboutUsInfo(){
                                  </span>
                                  <span>Watch video</span>
                               </a>
-                           </div>
+                           </div> */}
                         </div>
                      </div>
                   </div>

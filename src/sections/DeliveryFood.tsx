@@ -7,7 +7,7 @@ function DeliveryFood() {
                     <div className="deliveryFoodInner">
                         <h4>The Fastest </h4>
                         <h2>Delivery <span>Food</span></h2>
-                        <a href="javascript:void(0);" className="deliveryFoodBtn">
+                        <a target="_blank" href="https://www.swiggy.com/city/chennai/namma-chettinadu-restaurant-thoraipakkam-rest958718" className="deliveryFoodBtn">
                         Order Now
                         </a>
                     </div>

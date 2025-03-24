@@ -10,12 +10,12 @@ function Header() {
          <div className="rightMenu">
             {/* <div className="search">
                <a href="javascript:void(0);">
-                  <img src="src/assets/images/icon/search.png" alt="search" className="img-fluid"/>
+                  <img src="images/icon/search.png" alt="search" className="img-fluid"/>
                </a>
             </div>
             <div className="cart">
                <a href="check-out.html">
-                  <img src="src/assets/images/icon/cart.png" alt="cart" className="img-fluid"/>
+                  <img src="images/icon/cart.png" alt="cart" className="img-fluid"/>
                   <span>4</span>
                </a>
             </div>

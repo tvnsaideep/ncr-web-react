@@ -10,7 +10,7 @@ function ServiceCategory() {
                <div className="serviceCategoryItem">
                   <div className="serviceCategoryIcon">
                      <span>
-                        <img src="src/assets/images/icon/icon4.png" alt="icon" className="img-fluid"/>
+                        <img src="images/icon/icon4.png" alt="icon" className="img-fluid"/>
                      </span>
                   </div>
                   <div className="serviceCategoryContent">
@@ -24,7 +24,7 @@ function ServiceCategory() {
                <div className="serviceCategoryItem">
                   <div className="serviceCategoryIcon">
                      <span>
-                        <img src="src/assets/images/icon/icon5.png" alt="icon" className="img-fluid"/>
+                        <img src="images/icon/icon5.png" alt="icon" className="img-fluid"/>
                      </span>
                   </div>
                   <div className="serviceCategoryContent">
@@ -38,7 +38,7 @@ function ServiceCategory() {
                <div className="serviceCategoryItem">
                   <div className="serviceCategoryIcon">
                      <span>
-                        <img src="src/assets/images/icon/icon6.png" alt="icon" className="img-fluid"/>
+                        <img src="images/icon/icon6.png" alt="icon" className="img-fluid"/>
                      </span>
                   </div>
                   <div className="serviceCategoryContent">
@@ -52,7 +52,7 @@ function ServiceCategory() {
                <div className="serviceCategoryItem">
                   <div className="serviceCategoryIcon">
                      <span>
-                        <img src="src/assets/images/icon/icon5.png" alt="icon" className="img-fluid"/>
+                        <img src="images/icon/icon5.png" alt="icon" className="img-fluid"/>
                      </span>
                   </div>
                   <div className="serviceCategoryContent">
@@ -66,7 +66,7 @@ function ServiceCategory() {
                <div className="serviceCategoryItem">
                   <div className="serviceCategoryIcon">
                      <span>
-                        <img src="src/assets/images/icon/icon6.png" alt="icon" className="img-fluid"/>
+                        <img src="images/icon/icon6.png" alt="icon" className="img-fluid"/>
                      </span>
                   </div>
                   <div className="serviceCategoryContent">
@@ -80,7 +80,7 @@ function ServiceCategory() {
                <div className="serviceCategoryItem">
                   <div className="serviceCategoryIcon">
                      <span>
-                        <img src="src/assets/images/icon/icon7.png" alt="icon" className="img-fluid"/>
+                        <img src="images/icon/icon7.png" alt="icon" className="img-fluid"/>
                      </span>
                   </div>
                   <div className="serviceCategoryContent">

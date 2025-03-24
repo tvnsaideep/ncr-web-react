@@ -22,7 +22,7 @@ function AuAwards() {
                   </div>
                   <div className="col-md-6">
                      <div className="weWonAwardsImg">
-                        <img src="src/assets/images/award.png" alt="award" className="img-fluid"/>
+                        <img src="images/award.png" alt="award" className="img-fluid"/>
                      </div>
                   </div>
                </div>

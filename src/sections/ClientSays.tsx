@@ -16,7 +16,7 @@ function ClientSays() {
                   <div className="clientsSaySlideRow">
                      <div className="clientsSaySlideCol">
                         <div className="clientsSaySlideImg">
-                           <img src="src/assets/images/client-say1.png" alt="clients-say" className="img-fluid"/>
+                           <img src="images/client-say1.png" alt="clients-say" className="img-fluid"/>
                         </div>
                      </div>
                      <div className="clientsSaySlideCol">
@@ -48,7 +48,7 @@ function ClientSays() {
                   <div className="clientsSaySlideRow">
                      <div className="clientsSaySlideCol">
                         <div className="clientsSaySlideImg">
-                           <img src="src/assets/images/client-say2.png" alt="clients-say" className="img-fluid"/>
+                           <img src="images/client-say2.png" alt="clients-say" className="img-fluid"/>
                         </div>
                      </div>
                      <div className="clientsSaySlideCol">
@@ -77,7 +77,7 @@ function ClientSays() {
                   <div className="clientsSaySlideRow">
                      <div className="clientsSaySlideCol">
                         <div className="clientsSaySlideImg">
-                           <img src="src/assets/images/client-say3.png" alt="clients-say" className="img-fluid"/>
+                           <img src="images/client-say3.png" alt="clients-say" className="img-fluid"/>
                         </div>
                      </div>
                      <div className="clientsSaySlideCol">
@@ -106,7 +106,7 @@ function ClientSays() {
                   <div className="clientsSaySlideRow">
                      <div className="clientsSaySlideCol">
                         <div className="clientsSaySlideImg">
-                           <img src="src/assets/images/client-say4.png" alt="clients-say" className="img-fluid"/>
+                           <img src="images/client-say4.png" alt="clients-say" className="img-fluid"/>
                         </div>
                      </div>
                      <div className="clientsSaySlideCol">

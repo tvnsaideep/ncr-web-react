@@ -31,7 +31,7 @@ function SpecialTiffins() {
                      </div>
                      <div className="specialTiffinImg">
                         <a href="meal-single.html">
-                           <img src="src/assets/images/dishes/chettinadChickenGravy.jpg" alt="img" className="img-fluid"/>
+                           <img src="images/dishes/chettinadChickenGravy.jpg" alt="img" className="img-fluid"/>
                         </a>
                      </div>
                   </div>
@@ -59,7 +59,7 @@ function SpecialTiffins() {
                      </div>
                      <div className="specialTiffinImg">
                         <a href="meal-single.html">
-                           <img src="src/assets/images/dishes/natuKozhiRasam.jpg" alt="img" className="img-fluid"/>
+                           <img src="images/dishes/natuKozhiRasam.jpg" alt="img" className="img-fluid"/>
                         </a>
                      </div>
                   </div>
@@ -88,7 +88,7 @@ function SpecialTiffins() {
                      <div className="specialTiffinImg">
                         <a href="meal-single.html">
 
-                           <img src="src/assets/images/dishes/crabLollipop.png" alt="img" className="img-fluid"/>
+                           <img src="images/dishes/crabLollipop.png" alt="img" className="img-fluid"/>
                         </a>
                      </div>
                   </div>
@@ -116,7 +116,7 @@ function SpecialTiffins() {
                      </div>
                      <div className="specialTiffinImg">
                         <a href="meal-single.html">
-                           <img src="src/assets/images/dishes/chickenKothuParotta.jpg" alt="img" className="img-fluid"/>
+                           <img src="images/dishes/chickenKothuParotta.jpg" alt="img" className="img-fluid"/>
                         </a>
                      </div>
                   </div>

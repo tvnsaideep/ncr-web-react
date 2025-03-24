@@ -12,7 +12,7 @@ function GetInTouchInfo() {
                         <div className="getInTouchInfoItemInner">
                            <div className="getInTouchInfoIcon">
                               <span>
-                                 <img src="src/assets/images/icon/icon1.png" alt="icon" className="img-fluid"/>
+                                 <img src="images/icon/icon1.png" alt="icon" className="img-fluid"/>
                               </span>
                            </div>
                            <div className="getInTouchInfoContent">
@@ -31,7 +31,7 @@ function GetInTouchInfo() {
                         <div className="getInTouchInfoItemInner">
                            <div className="getInTouchInfoIcon">
                               <span>
-                                 <img src="src/assets/images/icon/icon2.png" alt="icon" className="img-fluid"/>
+                                 <img src="images/icon/icon2.png" alt="icon" className="img-fluid"/>
                               </span>
                            </div>
                            <div className="getInTouchInfoContent">
@@ -50,7 +50,7 @@ function GetInTouchInfo() {
                         <div className="getInTouchInfoItemInner">
                            <div className="getInTouchInfoIcon">
                               <span>
-                                 <img src="src/assets/images/icon/icon3.png" alt="icon" className="img-fluid"/>
+                                 <img src="images/icon/icon3.png" alt="icon" className="img-fluid"/>
                               </span>
                            </div>
                            <div className="getInTouchInfoContent">

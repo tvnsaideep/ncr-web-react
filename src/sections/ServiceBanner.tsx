@@ -10,14 +10,14 @@ function ServiceBanner() {
             <div className="col-md-6">
                <div className="serviceBannerItem">
                   <a href="javascript:void(0);">
-                     <img src="src/assets/images/services/image1.jpg" alt="banner" className="img-fluid w-100"/>
+                     <img src="images/services/image1.jpg" alt="banner" className="img-fluid w-100"/>
                   </a>
                </div>
             </div>
             <div className="col-md-6">
                <div className="serviceBannerItem">
                   <a href="javascript:void(0);">
-                     <img src="src/assets/images/services/image2.jpg" alt="banner" className="img-fluid w-100"/>
+                     <img src="images/services/image2.jpg" alt="banner" className="img-fluid w-100"/>
                   </a>
                </div>
             </div>

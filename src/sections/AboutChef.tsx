@@ -13,7 +13,7 @@ function AboutChef() {
                <div className="ourChefCard">
                   <div className="ourChefCardInner">
                      <span className="ourChefImg">
-                        <a href="chef-single.html"><img src="src/assets/images/chef1.png" alt="chef" className="img-fluid"/></a>
+                        <a href="chef-single.html"><img src="images/chef1.png" alt="chef" className="img-fluid"/></a>
                      </span>
                      <div className="ourChefContent">
                         <h4><a href="chef-single.html">Pearl R. Gaffney</a></h4>
@@ -26,7 +26,7 @@ function AboutChef() {
                <div className="ourChefCard">
                   <div className="ourChefCardInner">
                      <span className="ourChefImg">
-                        <a href="chef-single.html"><img src="src/assets/images/chef2.png" alt="chef" className="img-fluid"/></a>
+                        <a href="chef-single.html"><img src="images/chef2.png" alt="chef" className="img-fluid"/></a>
                      </span>
                      <div className="ourChefContent">
                         <h4><a href="chef-single.html">Kevin Widagdo</a></h4>
@@ -39,7 +39,7 @@ function AboutChef() {
                <div className="ourChefCard">
                   <div className="ourChefCardInner">
                      <span className="ourChefImg">
-                        <a href="chef-single.html"><img src="src/assets/images/chef3.png" alt="chef" className="img-fluid"/></a>
+                        <a href="chef-single.html"><img src="images/chef3.png" alt="chef" className="img-fluid"/></a>
                      </span>
                      <div className="ourChefContent">
                         <h4><a href="chef-single.html">Fran Rushing</a></h4>
@@ -52,7 +52,7 @@ function AboutChef() {
                <div className="ourChefCard">
                   <div className="ourChefCardInner">
                      <span className="ourChefImg">
-                        <a href="chef-single.html"><img src="src/assets/images/chef4.png" alt="chef" className="img-fluid"/></a>
+                        <a href="chef-single.html"><img src="images/chef4.png" alt="chef" className="img-fluid"/></a>
                      </span>
                      <div className="ourChefContent">
                         <h4><a href="chef-single.html">Henny Calvin</a></h4>

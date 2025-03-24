@@ -14,19 +14,19 @@ function Blog() {
                <div className="ourBlogItem">
                   <div className="ourBlogBanner">
                      <a href="#">
-                        <img src="src/assets/images/blog/blogPost1.jpg" alt="our-blog" className="img-fluid"/>
+                        <img src="images/blog/blogPost1.jpg" alt="our-blog" className="img-fluid"/>
                      </a>
                      <div className="ourBlogNav">
                         <ul className="nav">
                            <li className="nav-item">
                               <a className="nav-link" href="javascript:void(0);">
-                                 <img src="src/assets/images/icon/user.png" alt="user" className="img-fluid"/>
+                                 <img src="images/icon/user.png" alt="user" className="img-fluid"/>
                                  <span>By NCR</span>
                               </a>
                            </li>
                            {/* <li className="nav-item">
                               <a className="nav-link" href="javascript:void(0);">
-                                 <img src="src/assets/images/icon/message.png" alt="user" className="img-fluid"/>
+                                 <img src="images/icon/message.png" alt="user" className="img-fluid"/>
                                  <span>02</span>
                               </a>
                            </li> */}
@@ -55,19 +55,19 @@ function Blog() {
                <div className="ourBlogItem">
                   <div className="ourBlogBanner">
                      <a href="#">
-                        <img src="src/assets/images/blog/blogPost2.jpeg" alt="our-blog" className="img-fluid"/>
+                        <img src="images/blog/blogPost2.jpeg" alt="our-blog" className="img-fluid"/>
                      </a>
                      <div className="ourBlogNav">
                         <ul className="nav">
                            <li className="nav-item">
                               <a className="nav-link" href="javascript:void(0);">
-                                 <img src="src/assets/images/icon/user.png" alt="user" className="img-fluid"/>
+                                 <img src="images/icon/user.png" alt="user" className="img-fluid"/>
                                  <span>By NCR</span>
                               </a>
                            </li>
                            {/* <li className="nav-item">
                               <a className="nav-link" href="javascript:void(0);">
-                                 <img src="src/assets/images/icon/message.png" alt="user" className="img-fluid"/>
+                                 <img src="images/icon/message.png" alt="user" className="img-fluid"/>
                                  <span>02</span>
                               </a>
                            </li> */}
@@ -97,19 +97,19 @@ function Blog() {
                <div className="ourBlogItem">
                   <div className="ourBlogBanner">
                      <a href="#">
-                        <img src="src/assets/images/blog/blogPost3.jpg" alt="our-blog" className="img-fluid"/>
+                        <img src="images/blog/blogPost3.jpg" alt="our-blog" className="img-fluid"/>
                      </a>
                      <div className="ourBlogNav">
                         <ul className="nav">
                            <li className="nav-item">
                               <a className="nav-link" href="javascript:void(0);">
-                                 <img src="src/assets/images/icon/user.png" alt="user" className="img-fluid"/>
+                                 <img src="images/icon/user.png" alt="user" className="img-fluid"/>
                                  <span>By NCR</span>
                               </a>
                            </li>
                            {/* <li className="nav-item">
                               <a className="nav-link" href="javascript:void(0);">
-                                 <img src="src/assets/images/icon/message.png" alt="user" className="img-fluid"/>
+                                 <img src="images/icon/message.png" alt="user" className="img-fluid"/>
                                  <span>02</span>
                               </a>
                            </li> */}

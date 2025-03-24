@@ -5,7 +5,7 @@ function Banner() {
          <div className="container">
             <div className="innerPageBannerInner">
                <div className="innerPageBannerImgLeft">
-                  <img src="src/assets/images/services/banner/bannerLeft.jpeg" alt="banner-img" className="img-fluid"/>
+                  <img src="images/services/banner/bannerLeft.jpeg" alt="banner-img" className="img-fluid"/>
                </div>
                <div className="innerPageBannerContent">
                   <h1>Our <span>Service</span></h1>
@@ -15,7 +15,7 @@ function Banner() {
                   </ul>
                </div>
                <div className="innerPageBannerImgRight">
-                  <img src="src/assets/images/services/banner/bannerRight.jpeg" alt="banner-img" className="img-fluid"/>
+                  <img src="images/services/banner/bannerRight.jpeg" alt="banner-img" className="img-fluid"/>
                </div>
             </div>
          </div>

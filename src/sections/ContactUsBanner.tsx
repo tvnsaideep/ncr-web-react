@@ -5,7 +5,7 @@ function ContactUsBanner() {
          <div className="container">
             <div className="innerPageBannerInner">
                <div className="innerPageBannerImgLeft">
-                  <img src="src/assets/images/contact/banner/bannerLeft.jpeg" alt="banner-img" className="img-fluid"/>
+                  <img src="images/contact/banner/bannerLeft.jpeg" alt="banner-img" className="img-fluid"/>
                </div>
                <div className="innerPageBannerContent">
                   <h1>Contact <span>Us</span></h1>
@@ -15,7 +15,7 @@ function ContactUsBanner() {
                   </ul>
                </div>
                <div className="innerPageBannerImgRight">
-                  <img src="src/assets/images/contact/banner/bannerRight.jpeg" alt="banner-img" className="img-fluid"/>
+                  <img src="images/contact/banner/bannerRight.jpeg" alt="banner-img" className="img-fluid"/>
                </div>
             </div>
          </div>
