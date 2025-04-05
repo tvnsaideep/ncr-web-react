@@ -1657,7 +1657,7 @@ p {
   justify-content: space-between;
 }
 .specialTiffinCard .specialTiffinCardInner .specialTiffinContent .specialTiffinHead .specialTiffinTitle h2 {
-  color: #fff;
+  color: #000000;
   font-size: 18px;
   font-weight: 500;
 }

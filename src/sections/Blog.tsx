@@ -21,7 +21,7 @@ function Blog() {
                            <li className="nav-item">
                               <a className="nav-link" href="javascript:void(0);">
                                  <img src="images/icon/user.png" alt="user" className="img-fluid"/>
-                                 <span>By NCR</span>
+                                 <span>By Team Accenture</span>
                               </a>
                            </li>
                            {/* <li className="nav-item">

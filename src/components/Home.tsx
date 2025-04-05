@@ -29,7 +29,7 @@ function Home(){
 
         <Blog></Blog>
 
-        <TrustedBy></TrustedBy>
+        {/* <TrustedBy></TrustedBy> */}
         </>
     );
 }

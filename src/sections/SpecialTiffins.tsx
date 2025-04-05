@@ -15,7 +15,7 @@ function SpecialTiffins() {
                      <div className="specialTiffinContent">
                         <div className="specialTiffinHead">
                            <div className="specialTiffinTitle">
-                              <h2><a href="meal-single.html">Chettinad Chicken</a></h2>
+                              <h2>Chettinad Chicken</h2>
                            </div>
                            <div className="specialTiffinPrice">
                               <span>₹ 340</span>
@@ -30,9 +30,9 @@ function SpecialTiffins() {
                         </div>
                      </div>
                      <div className="specialTiffinImg">
-                        <a href="meal-single.html">
+                        
                            <img src="images/dishes/chettinadChickenGravy.jpg" alt="img" className="img-fluid"/>
-                        </a>
+                        
                      </div>
                   </div>
                </div>
@@ -43,7 +43,7 @@ function SpecialTiffins() {
                      <div className="specialTiffinContent">
                         <div className="specialTiffinHead">
                            <div className="specialTiffinTitle">
-                              <h2><a href="meal-single.html">NatuKozhi Rasam</a></h2>
+                              <h2>NatuKozhi Rasam</h2>
                            </div>
                            <div className="specialTiffinPrice">
                               <span>₹ 170</span>
@@ -58,9 +58,9 @@ function SpecialTiffins() {
                         </div>
                      </div>
                      <div className="specialTiffinImg">
-                        <a href="meal-single.html">
+                        
                            <img src="images/dishes/natuKozhiRasam.jpg" alt="img" className="img-fluid"/>
-                        </a>
+                        
                      </div>
                   </div>
                </div>
@@ -71,7 +71,7 @@ function SpecialTiffins() {
                      <div className="specialTiffinContent">
                         <div className="specialTiffinHead">
                            <div className="specialTiffinTitle">
-                              <h2><a href="meal-single.html">Crab Lollipop</a></h2>
+                              <h2>Crab Lollipop</h2>
                            </div>
                            <div className="specialTiffinPrice">
                               <span>₹ 325</span>
@@ -86,10 +86,10 @@ function SpecialTiffins() {
                         </div>
                      </div>
                      <div className="specialTiffinImg">
-                        <a href="meal-single.html">
+                        
 
                            <img src="images/dishes/crabLollipop.png" alt="img" className="img-fluid"/>
-                        </a>
+                        
                      </div>
                   </div>
                </div>
@@ -100,7 +100,7 @@ function SpecialTiffins() {
                      <div className="specialTiffinContent">
                         <div className="specialTiffinHead">
                            <div className="specialTiffinTitle">
-                              <h2><a href="meal-single.html">Chicken Kothu Parotta</a></h2>
+                              <h2>Chicken Kothu Parotta</h2>
                            </div>
                            <div className="specialTiffinPrice">
                               <span>₹ 240</span>
@@ -115,9 +115,9 @@ function SpecialTiffins() {
                         </div>
                      </div>
                      <div className="specialTiffinImg">
-                        <a href="meal-single.html">
+                        
                            <img src="images/dishes/chickenKothuParotta.jpg" alt="img" className="img-fluid"/>
-                        </a>
+                        
                      </div>
                   </div>
                </div>

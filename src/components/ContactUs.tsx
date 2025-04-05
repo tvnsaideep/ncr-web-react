@@ -16,7 +16,7 @@ function ContactUs() {
 
             <GetInTouchInfo></GetInTouchInfo>
 
-            <TrustedBy></TrustedBy>
+            {/* <TrustedBy></TrustedBy> */}
             
          </main>
 <script src="js/jquery-3.6.4.min.js"></script>

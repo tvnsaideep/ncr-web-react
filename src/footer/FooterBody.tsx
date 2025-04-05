@@ -6,7 +6,7 @@ function FooterBody() {
         <>
         <div className="container">
       <div className="footerInner">
-         <div className="subscribeOuter">
+         {/* <div className="subscribeOuter">
             <div className="row">
                <div className="col-md-12 col-lg-6">
                   <div className="logisticSubscribeTxt">
@@ -25,7 +25,7 @@ function FooterBody() {
                   </div>
                </div>
             </div>
-         </div>
+         </div> */}
          <div className="middleContent">
             <div className="footerLogo">
                {/* <a href="javascript:void(0);"><img src="images/footer-logo.png" alt="footer-logo"

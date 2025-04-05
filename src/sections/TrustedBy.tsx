@@ -6,9 +6,9 @@ function TrustedBy() {
    <div className="container">
       <h2 className="d-none">Trusted Users</h2>
       <div className="trustedUsersInner">
-         <div className="commonHeading headingCenter">
+         {/* <div className="commonHeading headingCenter">
             <p className="mb-0">Trusted by 1L+ users</p>
-         </div>
+         </div> */}
          <div className="owl-carousel owl-theme trustedUsersCarousel">
             <div className="item">
                <div className="trustedUsersItem">

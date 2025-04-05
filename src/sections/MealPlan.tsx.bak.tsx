@@ -11,7 +11,7 @@ function MealPlan() {
                            <p className="mb-0">Plan Your Meals, Perfect Your Life – Explore Our Options.</p>
                         </div>
                      </div>
-                     {/* <div className="ourMealPlanCol">
+                     <div className="ourMealPlanCol">
                         <ul className="nav nav-pills ourMealNav">
                            <li className="nav-item">
                               <a className="nav-link active" data-bs-toggle="pill" href="#veg">Specials</a>
@@ -20,7 +20,7 @@ function MealPlan() {
                               <a className="nav-link" data-bs-toggle="pill" href="#nonVeg">Regular</a>
                            </li>
                         </ul>
-                     </div> */}
+                     </div>
                   </div>
                   <div className="">
                   </div>
@@ -33,60 +33,92 @@ function MealPlan() {
                                  <div className="ourMealCard">
                                     <div className="ourMealImg">
                                        <a href="meal-single.html">
-                                          <img src="images/dishes/home/VegMeals.avif" alt="our-meal-img" className="img-fluid w-100" />
+                                          <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100" />
                                        </a>
                                     </div>
                                     <div className="ourMealContent">
                                        <div className="ourMealHead">
                                           <div className="ourMealTitle">
-                                             <h2>Veg Meals</h2>
+                                             <h2><a href="meal-single.html">Mappillai Virundhu</a></h2>
                                           </div>
-
-                                       </div>
-                                       <div className="ourMealPara">
-                                          <p>Sambar, Rasam, Kuttu, Poriyal, Kara Kolambu, Curd, Sweet, Appalam, Pickle</p>
-                                          <br></br>  <br></br>
-                                       </div>
-
-                                    </div>
-                                 </div>
-
-                              </div>
-                              <div className="col-md-6 col-xl-3">
-                                 <div className="ourMealCard">
-                                    <div className="ourMealImg square-shape">
-                                       <img src="images/dishes/home/Virundhu1.jpg" alt="our-meal-img" className="img-fluid w-100" />
-                                    </div>
-                                    <div className="ourMealContent">
-                                       <div className="ourMealHead">
-                                          <div className="ourMealTitle">
-                                             <h2>Mappillai Virundhu</h2>
-                                          </div>
-                                          {/* <div className="ourMealPrice">
+                                          <div className="ourMealPrice">
                                              <span>₹ 275</span>
-                                          </div> */}
+                                          </div>
                                        </div>
                                        <div className="ourMealPara">
-                                          <p> Mutton Gravy, Chicken Thokku, Prawn Thokku, Karuvadu Thokku, Boti Fry, Thalai Curry, Liver Roast, Mutton/Chicken Kola, Fish Fry, Egg Thoku, Sambar, Rasam, Kuttu, Poriyal, Curd, Appalam, Pickle, Beeda, Icecream, Banana, Sweet</p>  
+                                          <p> Mutton Gravy, Chicken Thokku, Prawn Thokku, Karuvadu
+                                             Thokku, Boti Fry, Thalai Curry, Liver Roast, Mutton/Chicken
+                                             Kola, Fish Fry, Egg Thoku, Sambar, Rasam, Kuttu, Poriyal,
+                                             Curd, Appalam, Pickle, Beeda, Icecream, Banana, Sweet</p>
+                                          <br></br>
                                        </div>
-
+                                       {/* <div className="ourMealBtn">
+                                 <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
+                                 <a href="javascript:void(0);" className="ourMealWishlist">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18"
+                                       viewBox="0 0 20 18" fill="none">
+                                       <path
+                                          d="M2.09519 9.17766C0.148184 6.57021 0.797187 2.65904 4.0422 1.35532C7.28721 0.0515967 9.23422 2.65904 9.88322 3.96277C10.5322 2.65904 13.1282 0.0515967 16.3732 1.35532C19.6183 2.65904 19.6183 6.57021 17.6712 9.17766C15.7242 11.7851 9.88322 17 9.88322 17C9.88322 17 4.0422 11.7851 2.09519 9.17766Z"
+                                          stroke="#999999" strokeLinecap="round" strokeLinejoin="round" />
+                                    </svg>
+                                 </a>
+                              </div> */}
                                     </div>
                                  </div>
                               </div>
                               <div className="col-md-6 col-xl-3">
                                  <div className="ourMealCard">
                                     <div className="ourMealImg">
-                                          <img src="images/dishes/home/Virundhu1.jpg" alt="our-meal-img" className="img-fluid w-100" />
-                                      
+                                       <a href="meal-single.html">
+                                          <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100" />
+                                       </a>
                                     </div>
                                     <div className="ourMealContent">
                                        <div className="ourMealHead">
                                           <div className="ourMealTitle">
-                                             <h2>Kalyana Virundhu</h2>
+                                             <h2><a href="meal-single.html">MOI Virundhu</a></h2>
                                           </div>
-                                          {/* <div className="ourMealPrice">
+                                          <div className="ourMealPrice">
+                                             <span>₹ 300</span>
+                                          </div>
+                                       </div>
+                                       <div className="ourMealPara">
+                                          <p>Mutton Varthala Curry, Chicken Milagai Curry,
+                                             Chettinadu Sangara Fish Curry, Mutton/Chicken
+                                             Uppu Curry, Botti Kuttu, Fish Karuvadu Kolambu,
+                                             Sambar, Rasam, Kuttu, Poriyal, Curd, Appalam, Pickle,
+                                             Beeda, Icecream, Banana, Sweet</p>
+                                          <br></br>
+                                       </div>
+                                       {/* <div className="ourMealBtn">
+                                 <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
+                                 <a href="javascript:void(0);" className="ourMealWishlist">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18"
+                                       viewBox="0 0 20 18" fill="none">
+                                       <path
+                                          d="M2.09519 9.17766C0.148184 6.57021 0.797187 2.65904 4.0422 1.35532C7.28721 0.0515967 9.23422 2.65904 9.88322 3.96277C10.5322 2.65904 13.1282 0.0515967 16.3732 1.35532C19.6183 2.65904 19.6183 6.57021 17.6712 9.17766C15.7242 11.7851 9.88322 17 9.88322 17C9.88322 17 4.0422 11.7851 2.09519 9.17766Z"
+                                          stroke="#999999" strokeLinecap="round" strokeLinejoin="round" />
+                                    </svg>
+                                 </a>
+                              </div> */}
+                                    </div>
+                                 </div>
+                              </div>
+                              <div className="col-md-6 col-xl-3">
+                                 <div className="ourMealCard">
+                                    <div className="ourMealImg">
+                                       <a href="meal-single.html">
+                                          <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100" />
+                                       </a>
+                                    </div>
+                                    <div className="ourMealContent">
+                                       <div className="ourMealHead">
+                                          <div className="ourMealTitle">
+                                             <h2><a href="meal-single.html">Kalyana Virundhu</a></h2>
+                                          </div>
+                                          <div className="ourMealPrice">
                                              <span>₹ 450</span>
-                                          </div> */}
+                                          </div>
                                        </div>
                                        <div className="ourMealPara">
                                           <p>Biryani Rice, Egg Paniyaram, Raitha, Kudal Kuttu, Chicken
@@ -95,7 +127,17 @@ function MealPlan() {
                                              (Sweet), Sambar, Rasam, Kuttu, Poriyal, Curd, Appalam,
                                              Pickle, Beeda, Banana, Icecream</p>
                                        </div>
-
+                                       {/* <div className="ourMealBtn">
+                                 <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
+                                 <a href="javascript:void(0);" className="ourMealWishlist">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18"
+                                       viewBox="0 0 20 18" fill="none">
+                                       <path
+                                          d="M2.09519 9.17766C0.148184 6.57021 0.797187 2.65904 4.0422 1.35532C7.28721 0.0515967 9.23422 2.65904 9.88322 3.96277C10.5322 2.65904 13.1282 0.0515967 16.3732 1.35532C19.6183 2.65904 19.6183 6.57021 17.6712 9.17766C15.7242 11.7851 9.88322 17 9.88322 17C9.88322 17 4.0422 11.7851 2.09519 9.17766Z"
+                                          stroke="#999999" strokeLinecap="round" strokeLinejoin="round" />
+                                    </svg>
+                                 </a>
+                              </div> */}
                                     </div>
                                  </div>
                               </div>
@@ -103,21 +145,28 @@ function MealPlan() {
                                  <div className="ourMealCard">
                                     <div className="ourMealImg">
                                        <a href="meal-single.html">
-                                          <img src="images/dishes/home/NonVegMeals.avif" alt="our-meal-img" className="img-fluid w-100" />
+                                          <img src="images/dishes/home/meals.jpg" alt="our-meal-img" className="img-fluid w-100" />
                                        </a>
                                     </div>
                                     <div className="ourMealContent">
                                        <div className="ourMealHead">
                                           <div className="ourMealTitle">
-                                             <h2>Non Veg Meals</h2>
+                                             <h2><a href="meal-single.html">NCR Non Veg Thali</a></h2>
                                           </div>
-                                          {/* <div className="ourMealPrice">
+                                          <div className="ourMealPrice">
                                              <span>₹ 315</span>
-                                          </div> */}
+                                          </div>
                                        </div>
                                        <div className="ourMealPara">
-                                          <p> Mutton Gravy, Chicken Gravy, Fish Curry, Karuvadu Thokku, Sambar, Rasam, Kuttu, Poriyal, Kara Kolambu, Curd, Sweet, Appalam, Pickle</p>
+                                          <p> Papad / Dalfry / 5 Roti / Jeera Rice
+                                             / Raita / 1 Sweet / Salad / Paneer Chatpata</p>
                                        </div>
+                                       <br></br>
+                                       <br></br>
+                                       <br></br>
+                                       <br></br>
+                                       <br></br>
+                                       <br></br>
                                        {/* <div className="ourMealBtn">
                                  <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
                                  <a href="javascript:void(0);" className="ourMealWishlist">
@@ -135,7 +184,7 @@ function MealPlan() {
                            </div>
                         </div>
                      </div>
-                     {/* <div className="tab-pane container fade" id="nonVeg">
+                     <div className="tab-pane container fade" id="nonVeg">
                         <div className="ourMealContent">
                            <div className="row">
                               <div className="col-md-6 col-xl-3">
@@ -158,7 +207,7 @@ function MealPlan() {
                                           <p>Dal / fry / Roti / Rice
                                              / Sambar / Rasam / Curd / 1 Sweet / Salad / Papad</p>
                                        </div>
-                                        <div className="ourMealBtn">
+                                       {/* <div className="ourMealBtn">
                                  <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
                                  <a href="javascript:void(0);" className="ourMealWishlist">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18"
@@ -168,7 +217,7 @@ function MealPlan() {
                                           stroke="#999999" strokeLinecap="round" strokeLinejoin="round" />
                                     </svg>
                                  </a>
-                              </div> 
+                              </div> */}
                                     </div>
                                  </div>
                               </div>
@@ -192,7 +241,7 @@ function MealPlan() {
                                           <p>Mutton Curry / Dal / fry /  Roti / Rice
                                              / Curd / 1 Sweet / Salad / Papad</p>
                                        </div>
-                                       <div className="ourMealBtn">
+                                       {/* <div className="ourMealBtn">
                                  <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
                                  <a href="javascript:void(0);" className="ourMealWishlist">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18"
@@ -202,7 +251,7 @@ function MealPlan() {
                                           stroke="#999999" strokeLinecap="round" strokeLinejoin="round" />
                                     </svg>
                                  </a>
-                              </div> 
+                              </div> */}
                                     </div>
                                  </div>
                               </div>
@@ -226,7 +275,7 @@ function MealPlan() {
                                           <p>Fish Curry / Dal / fry /  Roti / Rice
                                              / Rasam / Curd / 1 Sweet / Salad / Papad</p>
                                        </div>
-                              <div className="ourMealBtn">
+                                       {/* <div className="ourMealBtn">
                                  <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
                                  <a href="javascript:void(0);" className="ourMealWishlist">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18"
@@ -236,7 +285,7 @@ function MealPlan() {
                                           stroke="#999999" strokeLinecap="round" strokeLinejoin="round" />
                                     </svg>
                                  </a>
-                              </div> 
+                              </div> */}
                                     </div>
                                  </div>
                               </div>
@@ -260,7 +309,7 @@ function MealPlan() {
                                           <p>Chicken Curry / Dal / fry /  Roti / Rice
                                              / Curd / 1 Sweet / Salad / Papad</p>
                                        </div>
-                                       <div className="ourMealBtn">
+                                       {/* <div className="ourMealBtn">
                                  <a href="check-out.html" className="btn btnPrimary">Add To Cart</a>
                                  <a href="javascript:void(0);" className="ourMealWishlist">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="18"
@@ -270,13 +319,13 @@ function MealPlan() {
                                           stroke="#999999" strokeLinecap="round" strokeLinejoin="round" />
                                     </svg>
                                  </a>
-                              </div>
+                              </div> */}
                                     </div>
                                  </div>
                               </div>
                            </div>
                         </div>
-                     </div>  */}
+                     </div>
                   </div>
                </div>
             </div>
